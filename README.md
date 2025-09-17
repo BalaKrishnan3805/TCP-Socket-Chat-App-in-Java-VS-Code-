@@ -1,7 +1,7 @@
 # TCP-Socket-Chat-App-in-Java-VS-Code-
-Networking project demonstrating real-time communication between client and server using Java sockets over TCP/IP
+A simple Java client–server chat program coded in Visual Studio Code. This is a console-based implementation to demonstrate TCP socket programming, not a packaged GUI application.
 ----------
-# 🚀 Features
+## 🚀 Features
 - Two-way text chat between client and server
 - Built with **Java socket programming (TCP/IP)**
 - Works on same computer or across LAN
@@ -50,5 +50,9 @@ Client: exit
 >Add encryption for secure communication
 
 ------
+
+## ℹ️ Project Note
+This project is a **basic networking implementation** written in **Java** using **Visual Studio Code**.  
+It is not a full-fledged application with a GUI; instead, it runs in the **terminal/console** to demonstrate the working of **client–server communication using TCP sockets**.
 
 
